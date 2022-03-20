@@ -59,6 +59,7 @@ As a Frequent visitor;
 
 ### Unfixed bugs
 * The hero image on the home page has been cut off at the top.
+* the active nav menu and when hovering over said menu, the bottom border sits too far below the text.
 
 ## Acknowledgements
 
