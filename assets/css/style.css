@@ -15,7 +15,7 @@ body {
     font-family: Fredoka, sans-serif;
     color: whitesmoke;
     float: left;
-    font-size: 300%;
+    font-size: 250%;
     margin-left: 30px;
 }
 
@@ -50,4 +50,21 @@ body {
 
 .active {
     border-bottom: 2.5px solid #f5f5f5;
+}
+
+#hero-image {
+    height: 500px;
+    width: 100%;
+    background: url(../images/jesper-aggergaard-rA5aJvQ2l6g-unsplash.jpg) no-repeat center center;
+
+    animation-name: hero-zoom;
+    animation-duration: 7s;
+    animation-fill-mode: forwards;
+}
+
+#hero-outer {
+    height: 500px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
 }
