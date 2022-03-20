@@ -23,11 +23,11 @@ body {
     list-style-type: none;
     float: right;
     letter-spacing: 4px;
-    font-size: 110%;
+    font-size: 80%;
 }
 
 #logo #menu {
-    line-height: 60px;
+    line-height: 75px;
 }
 
 #menu li {
