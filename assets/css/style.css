@@ -58,7 +58,7 @@ body {
     background: url(../images/jesper-aggergaard-rA5aJvQ2l6g-unsplash.jpg) no-repeat center center;
 
     animation-name: hero-zoom;
-    animation-duration: 7s;
+    animation-duration: 6s;
     animation-fill-mode: forwards;
 }
 
@@ -66,5 +66,13 @@ body {
     height: 500px;
     width: 100%;
     overflow: hidden;
-    position: relative;
+}
+
+@keyframes hero-zoom {
+	from{
+        transform: scale(1);
+  }
+    to{
+        transform: scale(1.1);
+  }
 }
