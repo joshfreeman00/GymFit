@@ -55,7 +55,10 @@ As a Frequent visitor;
 
 ## Testing
 ### Bugs
-* A display property with the value 'inline-block' (ln 27 col 5) was conflicting with the float property, this was fixed by deleting the display property and the corresponding value
+* A display property with the value 'inline-block' (ln 27 col 5) was conflicting with the float property, this was fixed by deleting the display property and the corresponding value.
+
+### Unfixed bugs
+* The hero image on the home page has been cut off at the top.
 
 ## Acknowledgements
 
