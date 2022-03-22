@@ -72,6 +72,6 @@ As a Frequent visitor;
 * Unsplash - All the images used used within the web page were sourced from here.
 
 ## Acknowledgements
-To create this website, I used material covered in the Full Stack Development course by Code Institute. As well as information from the gitSlack Community Channels, Stack Overflow and W3Schools.
+* To create this website, I used material covered in the Full Stack Development course by Code Institute. As well as information from the gitSlack Community Channels, Stack Overflow and W3Schools.
 
 * Tim Nelson, my tutor, for reviewing my work and providing useful, help, feedback and advice.
