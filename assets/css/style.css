@@ -18,7 +18,9 @@ body {
     font-size: 250%;
     margin-left: 30px;
 }
-
+nav {
+    transform: translate(0, 1em);
+}
 #menu {
     list-style-type: none;
     float: right;
@@ -41,6 +43,7 @@ body {
     text-decoration: none;
     color: whitesmoke;
     display: block;
+    line-height: 1;
 }
 
 #menu a:hover {
@@ -55,7 +58,7 @@ body {
 #hero-image {
     height: 500px;
     width: 100%;
-    background: url(../images/jesper-aggergaard-rA5aJvQ2l6g-unsplash.jpg) no-repeat center center;
+    background: url(../images/image.png) no-repeat top center;
 
     animation-name: hero-zoom;
     animation-duration: 6s;
