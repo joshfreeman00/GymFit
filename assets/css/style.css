@@ -11,6 +11,8 @@ body {
     background-color: cornflowerblue;
 }
 
+/* logo */
+
 #logo {
     font-family: Fredoka, sans-serif;
     color: whitesmoke;
@@ -18,6 +20,9 @@ body {
     font-size: 250%;
     margin-left: 30px;
 }
+
+/* navigation menu */
+
 nav {
     transform: translate(0, 1em);
 }
@@ -55,6 +60,8 @@ nav {
     border-bottom: 2.5px solid #f5f5f5;
 }
 
+/* hero image */
+
 #hero-image {
     height: 400px;
     width: 100%;
@@ -80,6 +87,8 @@ nav {
   }
 }
 
+/* cover text */
+
 #cover-text{
     font-size: 80%;
     font-family: rubik, arial;
@@ -103,4 +112,40 @@ nav {
   #namefont {
       font-family: fredoka, arial;
       color: #f5f5f5;
+  }
+
+  /* reasons why header */
+
+  #reasons_header {
+      background-color: #f5f5f5;
+      margin: auto;
+      text-align: center;
+      padding: 20px 0;
+      /* code used from w3school */
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  #reasonslogo {
+      font-family: fredoka, arial;
+      color: #2E446E;
+  }
+
+  /* reasons why section */
+
+  #reasons_section {
+      padding: 50px 0;
+  }
+
+  .reasons_why {
+      background-color: #f5f5f5;
+      box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      border-radius: 5px;
+      font-size: 90%;
+      margin: 0 5px 0 5px;
+      padding: 15px;
+  }
+
+  mark {
+      background-color: peachpuff;
+      border-radius: 10%;
   }
