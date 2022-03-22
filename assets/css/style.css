@@ -149,3 +149,32 @@ nav {
       background-color: peachpuff;
       border-radius: 10%;
   }
+
+  /* footer */
+
+  footer {
+      height: 100px;
+      background-color: #f5f5f5;
+      box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+
+  footer h2 {
+      font-size: 70%;
+      text-align: center;
+      padding-top: 10px;
+  }
+
+  .socials {
+      padding-top: 10px;
+      text-align: center;
+  }
+  
+  .socials li {
+      display: inline;
+  }
+
+  .socials i {
+    margin: 1%;
+    padding: 0 5%;
+    color: #2E446E;
+  }
