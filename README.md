@@ -54,12 +54,13 @@ As a Frequent visitor;
 ## External tools used
 
 ## Testing
+
 ### Bugs
 * A display property with the value 'inline-block' (ln 27 col 5) was conflicting with the float property, this was fixed by deleting the display property and the corresponding value.
+* The hero image on the home page has been cut off at the top. This was fixed by replacing the 'center' value with 'top'. The image was later was changed for better user clarity.
+* the active nav menu and when hovering over said menu, the bottom border sits too far below the text. this was fixed by adding the a 'nav' selector including the 'translate' property containing the value of '0, 1em'
 
 ### Unfixed bugs
-* The hero image on the home page has been cut off at the top.
-* the active nav menu and when hovering over said menu, the bottom border sits too far below the text.
 
 ## Credits
 * Font awesome - The icons used.
@@ -71,6 +72,6 @@ As a Frequent visitor;
 * Unsplash - All the images used used within the web page were sourced from here.
 
 ## Acknowledgements
-To create this website, I used material covered in the Full Stack Development course by Code Institute. As well as information from the Slack Community Channels, Stack Overflow and W3Schools.
+To create this website, I used material covered in the Full Stack Development course by Code Institute. As well as information from the gitSlack Community Channels, Stack Overflow and W3Schools.
 
 * Tim Nelson, my tutor, for reviewing my work and providing useful, help, feedback and advice.
