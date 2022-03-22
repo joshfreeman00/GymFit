@@ -61,6 +61,16 @@ As a Frequent visitor;
 * The hero image on the home page has been cut off at the top.
 * the active nav menu and when hovering over said menu, the bottom border sits too far below the text.
 
-## Acknowledgements
-
 ## Credits
+* Font awesome - The icons used.
+* Bootstrap - The grid system code.
+* Google fonts - For the Fredoka and Rubik fonts that were used.
+* w3schools - For the box shadow code and consistant help throughout.
+* My mentor - For helpful tips and debugging.
+* Love Running - The code to make the hero-image and animation effect on the homepage was used from Code Institute.
+* Unsplash - All the images used used within the web page were sourced from here.
+
+## Acknowledgements
+To create this website, I used material covered in the Full Stack Development course by Code Institute. As well as information from the Slack Community Channels, Stack Overflow and W3Schools.
+
+* Tim Nelson, my tutor, for reviewing my work and providing useful, help, feedback and advice.
