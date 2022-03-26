@@ -48,9 +48,37 @@ As a Frequent visitor;
 ### Fonts
 
 ## Wireframes
+The wireframes for the webpage can be viewed here.
 
+* index.html
+![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/index.png)
+* index.html - Mobile
+![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/index_mobile.png)
+* classes.html
+![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/classes.png)
+* classes.html - Mobile
+![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/classes_mobile.png)
+* gallery.html
+![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/gallery.png)
+* gallery.html - Mobile
+![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/gallery_mobile.png)
+* enquiries.html
+![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/enquiries.png)
+* enquiries.html - Mobile
+![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/enquiries_mobile.png)
 ## Languages
+* HTML5
+* CSS
 
+## Tools
+* Gitpod
+* Github
+* Git
+* Balsamiq
+* Google Fonts
+* Font Awesome
+* Adobe Color
+* Google Chrome Dev tools
 ## External tools used
 
 ## Testing
