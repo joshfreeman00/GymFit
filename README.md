@@ -45,8 +45,13 @@ As a Frequent visitor;
 ## Design
 ### Images
 ### Colour scheme
+* The use of blue within this theme provides a non-threatening feel for the user and provides tranquility too.
+<!-- !Preview(Color theme goes here)  -->
 ### Fonts
+* Fredoka font is the main font used throughout the website and features rounded edges on the text. A fullback font of Sans-Serif is used just in case for whatever the reason is that the font isnt loaded correctly.
+* Rubik is used for the logo of the web page that is more rounded and thicker than Fredoka, this makes it stand out amongst the rest of the text. This provides User Clarity allowing the user to easily spot the websites title. A fullback font of Sans-Serif is used just in case for whatever the reason is that the font isnt loaded correctly.
 
+The use of rounded is used for a casual theme, making the user feel at home.
 ## Wireframes
 The wireframes for the webpage can be viewed here.
 
@@ -100,6 +105,6 @@ The wireframes for the webpage can be viewed here.
 * Unsplash - All the images used used within the web page were sourced from here.
 
 ## Acknowledgements
-* To create this website, I used material covered in the Full Stack Development course by Code Institute. As well as information from the gitSlack Community Channels, Stack Overflow and W3Schools.
+* To create this website, I used material and infomation covered in the Full Stack Development course by Code Institute. As well as information from the gitSlack Community Channels, Stack Overflow and W3Schools.
 
-* Tim Nelson, my tutor, for reviewing my work and providing useful, help, feedback and advice.
+* Tim Nelson, my tutor, for reviewing my work and providing useful, help, feedback and advice throughout.
