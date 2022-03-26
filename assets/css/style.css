@@ -46,7 +46,7 @@ nav {
 
 #menu a{
     text-decoration: none;
-    color: whitesmoke;
+    color: #f5f5f5;
     display: block;
     line-height: 1;
 }
@@ -177,4 +177,23 @@ nav {
     margin: 1%;
     padding: 0 5%;
     color: #2E446E;
+  }
+
+  /* upcoming classes */
+
+  #classes {
+    background: url(../images/classes_image.jpg) no-repeat center center;
+    background-size: cover;
+    height: 700px;
+    width: 100%;
+    overflow: hidden;
+  }
+
+  #classes-header {
+    background-color: rgba(245, 245, 245, .8);
+    color: #000;
+    margin: 20px 200px;
+    text-align: center;
+    padding: 20px 0;
+    border-radius: 5px;
   }
