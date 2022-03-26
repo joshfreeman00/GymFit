@@ -116,7 +116,7 @@ nav {
 
   /* reasons why header */
 
-  #reasons_header {
+  #reasons-header {
       background-color: #f5f5f5;
       margin: auto;
       text-align: center;
@@ -125,18 +125,18 @@ nav {
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
-  #reasonslogo {
+  #sml-logo {
       font-family: fredoka, arial;
       color: #2E446E;
   }
 
   /* reasons why section */
 
-  #reasons_section {
+  #reasons-section {
       padding: 50px 0;
   }
 
-  .reasons_why {
+  .reasons-why {
       background-color: #f5f5f5;
       box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       border-radius: 5px;
@@ -179,7 +179,7 @@ nav {
     color: #2E446E;
   }
 
-  /* upcoming classes */
+  /* classes header */
 
   #classes {
     background: url(../images/classes_image.jpg) no-repeat center center;
@@ -197,6 +197,8 @@ nav {
     margin: 20px 0;
     padding: 20px;
   }
+
+  /* class times */
 
   #times {
       margin-top: 40px;
@@ -218,4 +220,21 @@ nav {
   #times h2, #times h3 {
     font-size: 130%;
     padding: 7px;
+  }
+
+  /* contact header */
+
+  #contact-section {
+    height: 700px;
+    width: 100%;
+  }
+
+  #contact-header {
+    clear: both;
+    background-color: #f5f5f5;
+    color: #000;
+    margin: auto 0;
+    text-align: center;
+    padding: 15px 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
