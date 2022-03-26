@@ -94,6 +94,8 @@ The wireframes for the webpage can be viewed here.
 * the active nav menu and when hovering over said menu, the bottom border sits too far below the text. this was fixed by adding the a 'nav' selector including the 'translate' property containing the value of '0, 1em'
 
 ### Unfixed bugs
+* Two of the features on the index.html page are taking up two columns instead of one.
+* In the comment input box on the contact.html page, the text placeholder and text itself isnt covering the entire box.
 
 ## Credits
 * Font awesome - The icons used.
