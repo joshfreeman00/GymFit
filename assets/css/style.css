@@ -184,7 +184,7 @@ nav {
   #classes {
     background: url(../images/classes_image.jpg) no-repeat center center;
     background-size: cover;
-    height: 700px;
+    height: 600px;
     width: 100%;
     overflow: hidden;
   }
@@ -192,8 +192,30 @@ nav {
   #classes-header {
     background-color: rgba(245, 245, 245, .8);
     color: #000;
-    margin: 20px 200px;
+    margin: 20px 200px 0 200px;
     text-align: center;
     padding: 20px 0;
     border-radius: 5px;
+  }
+
+  #times {
+      margin-top: 40px;
+      margin-bottom: 40px;
+  }
+
+  #times div {
+      color: #f5f5f5;
+      background-color: rgba(79, 90, 110, 0.5);
+      border-radius: 5px;
+      width: 19%;
+      height: 200px;
+      float: left;
+      margin: 2px;
+      text-align: center;
+      margin-left: 9px;
+  }
+  
+  #times h2, #times h3 {
+    font-size: 130%;
+    padding: 7px;
   }
