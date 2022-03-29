@@ -179,15 +179,17 @@ nav {
     color: #2E446E;
   }
 
-  /* classes header */
+  /* classes background */
 
   #classes {
     background: url(../images/classes_image.jpg) no-repeat center center;
     background-size: cover;
-    height: 600px;
+    height: 960px;
     width: 100%;
     overflow: hidden;
   }
+
+  /* classes header */
 
   #classes-header {
     background-color: rgba(245, 245, 245, .8);
@@ -201,7 +203,7 @@ nav {
   /* class times */
 
   #times {
-      margin-top: 40px;
+      margin-top: 120px;
       margin-bottom: 40px;
   }
 
@@ -214,7 +216,7 @@ nav {
       float: left;
       margin: 2px;
       text-align: center;
-      margin-left: 9px;
+      margin-left: 10px;
   }
   
   #times h2, #times h3 {
@@ -238,6 +240,8 @@ nav {
     padding: 15px 0;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
+
+  /* contact form */
 
   .contact-form {
     color: #000;
@@ -276,4 +280,17 @@ nav {
   .contact-btn:hover{
     background-color: #fff;
     color: #000;
+  }
+  
+  @media screen and (max-width: 1200px) {
+      #times {
+          margin-top: 10px;
+      }
+
+      #times div {
+          width: 100%;
+          clear: both;
+          height: 150px;
+          font-size: 70%;
+      }
   }
