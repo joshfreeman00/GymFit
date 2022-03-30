@@ -13,7 +13,7 @@ body {
 
 /* logo */
 
-#logo {
+#gf-logo {
     font-family: Fredoka, sans-serif;
     color: whitesmoke;
     float: left;
@@ -22,18 +22,23 @@ body {
 }
 
 /* navigation menu */
+header {
+    background-color: transparent;
+}
 
 nav {
     transform: translate(0, 1em);
 }
-#menu {
-    list-style-type: none;
-    float: right;
-    letter-spacing: 4px;
-    font-size: 80%;
+.navbar-dark .navbar-nav .active>.nav-link,
+.navbar-dark .navbar-nav .nav-link {
+    color: #f5f5f5;
+}
+.navbar-dark .navbar-nav .active>.nav-link:hover,
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #2E446E;
 }
 
-#logo #menu {
+/* #logo #menu {
     line-height: 75px;
 }
 
@@ -58,7 +63,7 @@ nav {
 
 .active {
     border-bottom: 2.5px solid #f5f5f5;
-}
+} */
 
 /* hero image */
 
@@ -102,8 +107,8 @@ nav {
     
     background: rgba(78, 116, 186, .5);
     
-    bottom: 170px;
-    left: 10px;
+    bottom: 25vh;
+    left: 5vw;
     
     position: absolute;
     
@@ -141,7 +146,7 @@ nav {
       box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       border-radius: 5px;
       font-size: 90%;
-      margin: 5px;
+      /* margin: 5px; */
       padding: 15px;
   }
 

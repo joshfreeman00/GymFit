@@ -14,10 +14,33 @@
     <!-- header / navigation menu -->
 
     <header>
-        <a href="index.html">
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <a class="navbar-brand" href="index.html" id="gf-logo">GymFit</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+          
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav ml-auto">
+                <li class="nav-item active">
+                  <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="classes.html">Classes</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="contact.html">Contact</a>
+                </li>
+              </ul>
+            </div>
+          </nav>
+
+
+
+        <!-- <a href="index.html">
             <h1 id="logo">GymFit</h1>
-        </a>
-        <nav>
+        </a> -->
+        <!-- <nav>
             <ul id="menu">
                  <li>
                     <a href="index.html" class="active">Home</a>
@@ -32,7 +55,7 @@
                     <a href="contact.html">Contact</a>
                 </li>
             </ul>
-        </nav>
+        </nav> -->
     </header>
 
     <!-- hero image / cover text -->
@@ -51,16 +74,18 @@
         <h2>Why choose <span id="sml-logo">GymFit</span>?</h2>
     </div>
     <section class="container" id="reasons-section">
-        <div class="row">
-            <div class="col-12 col-md-6 reasons-why">
-                <h3>No fixed contract <i class="fa-solid fa-ban"></i></h3>
-                <p>With no fixed contract, you are not binded woth going to the gym, you can go whenever or cancel when ever! <i>(fees may apply).</i> Only <mark>£19.99</mark> per month!</p>
+        <div class="row py-3">
+            <div class="col-12 col-md-6 px-0">
+                <div class="reasons-why mr-2">
+                    <h3>No fixed contract <i class="fa-solid fa-ban"></i></h3>
+                    <p>With no fixed contract, you are not binded woth going to the gym, you can go whenever or cancel when ever! <i>(fees may apply).</i> Only <mark>£19.99</mark> per month!</p>
+                </div>
             </div>
-        </div>
-        <div class="row">
-            <div class="col-12 col-md-6 reasons-why">
-                <h3>Showers and changing rooms <i class="fa-solid fa-shower"></i></h3>
-                <p>Our Gym provides changing rooms for those on a tight schedule and showers for those early birds/night owls. meaning you have more time on your hands rather than travelling back and forth.</p>
+            <div class="col-12 col-md-6 px-0"> 
+                <div class="reasons-why ml-2">
+                    <h3>Showers and changing rooms <i class="fa-solid fa-shower"></i></h3>
+                    <p>Our Gym provides changing rooms for those on a tight schedule and showers for those early birds/night owls. meaning you have more time on your hands rather than travelling back and forth.</p>
+                </div>
             </div>
         </div>
         <div class="row">
@@ -74,13 +99,15 @@
 
     <!-- footer -->
 
-        <footer>
-            <h2>Connect to us on social media!</h2>
-            <ul class="socials">
-              <li><a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-facebook-square"></i></a></li>
-              <li><a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram-square"></i></a></li>
-              <li><a href="https://www.youtube.com/" target="_blank"><i class="fa-brands fa-youtube-square"></i></a></li>
-            </ul>
-        </footer>
+    <footer>
+        <h2>Connect to us on social media!</h2>
+        <ul class="socials">
+            <li><a href="https://www.facebook.com" target="_blank"><i class="fa-brands fa-facebook-square"></i></a></li>
+            <li><a href="https://www.instagram.com" target="_blank"><i class="fa-brands fa-instagram-square"></i></a></li>
+            <li><a href="https://www.youtube.com/" target="_blank"><i class="fa-brands fa-youtube-square"></i></a></li>
+        </ul>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
 </body>
 </html>
