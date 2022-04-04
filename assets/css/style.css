@@ -107,7 +107,7 @@ nav {
     
     background: rgba(78, 116, 186, .5);
     
-    bottom: 25vh;
+    bottom: 35vh;
     left: 5vw;
     
     position: absolute;
@@ -231,9 +231,12 @@ nav {
 
   /* contact header */
 
-  #contact-section {
-    height: 700px;
+  .contact-section {
+    background: url(../images/contact-background.jpg) no-repeat center center;
+    background-size: cover;
+    height: 850px;
     width: 100%;
+    overflow: hidden;
   }
 
   #contact-header {
