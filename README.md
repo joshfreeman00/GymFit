@@ -37,25 +37,61 @@ As a Frequent visitor;
 * The navigation links are located on the top right of the webpage, which link to the other available pages. Here users can easily use thee links to navigate from each webpage, along with being shown which page you are on from the underline of the text.
 * For smaller devices, the navigation bar changes to a burger menu for a more responsive design for mobile or tablet users, this allows for a compact and user friendly design. 
 
+![Nav_bar](placeholder)
+
+![Nav_bar_burger](placeholder)
+
 ### Header
+* The Header contains the hero image of gym equipment.
+* On the left is cover text containing the slogan along with the opening times.
+* The image provides context of what the webiste is about along with the covet text which provides the vital opening times.
 ### Home Page
+* The home page is the first page that opens when opening the website, it clearly states the name of the website along with a large, full-width image that includes a zooming in animation, this is to catch the eye of the user.
 ### Why choose GymFit?
+* Within this section is the heading that provides infomation on why the user should join GymFit as well as 3 sections on the benifits on joining.
+* These sections have a white background, contrasting the blue theme of the webpage along with black text in which all provides the user accessabilty in reading the text.
+
+![whychoose](placeholder)
+
 ### Footer
+* The footer provides links to 3 of there social media accounts along with text. They purposely open a new tab to allow the user to easily navigate to different social platforms while still being connected the the website for easy access back to the webpage.
+* Icons are used for the links instead of text to provide a minimalistic look while still providing infomation on which social media platform is which from the use of their logo.
+* The text explains what the icon links provide.
+
+![footer](placeholder)
+
 ### Classes Page
-### Gallery Page
+* The classes page contains a section at the top that provides infomation on what the page includes and the pricing of said classes.
+* The classes page also displays infomation of the classes availble which includes the times, days and what the classes have to offer along with a icon thats linked to what the class is about.
+* the page also includes a background image of a person helping someone else, this is provides a background image that is relivant to the page.
+* the design of the heading and times allow the user to easily read the text because of the contrast of the text color and the background of the text. The background of the text is also semi-transparent to allow the user to still see the background image while still being able to read the text.
+
+![classes](placeholder)
+
 ### Contact Page
-### Features yet to include
+* The contact page provides a header that explains what the page is for.
+* The contact page also contains a form that allows the user to sumbit their infomation.
+* The form collects the users first name, last name, email, contact number and any comments which are all required to successfully sumbit the form.
+
+![contact](placeholder)
 
 ## Design
 ### Images
+The images used throughout the website are relivant to each page they are on.
+* The langing image is used to should off the equipment the gym has to offer along with a zooming in animation that draws attention of the user.
+* The background image for the classes page someone helping someone else, this is relivant to what the page is about.
+* Lastly the background image for the contacts page, although not relivant, its blurred so that the user does not need to pay attention to the image, its purpose is to provide a better design than a dull single colour background.
 ### Colour scheme
-* The use of blue within this theme provides a non-threatening feel for the user and provides tranquility too.
-![Color theme](https://github.com/joshfreeman00/gymfit/blob/main/docs/color-theme.jpeg)
+* The use of a blue palette within this theme provides a non-threatening feel for the user and provides tranquility too.
+
+![Colour theme](https://github.com/joshfreeman00/gymfit/blob/main/docs/color-theme.jpeg)
+
 ### Fonts
 * Fredoka font is the main font used throughout the website and features rounded edges on the text. A fullback font of Sans-Serif is used just in case for whatever the reason is that the font isnt loaded correctly.
 * Rubik is used for the logo of the web page that is more rounded and thicker than Fredoka, this makes it stand out amongst the rest of the text. This provides User Clarity allowing the user to easily spot the websites title. A fullback font of Sans-Serif is used just in case for whatever the reason is that the font isnt loaded correctly.
 
 The use of rounded is used for a casual theme, making the user feel at home.
+
 ## Wireframes
 The wireframes for the webpage can be viewed here.
 
@@ -91,10 +127,9 @@ The wireframes for the webpage can be viewed here.
 ### Bugs
 * A display property with the value 'inline-block' (ln 27 col 5) was conflicting with the float property, this was fixed by deleting the display property and the corresponding value.
 * The hero image on the home page has been cut off at the top. This was fixed by replacing the 'center' value with 'top'. The image was later was changed for better user clarity.
-* the active nav menu and when hovering over said menu, the bottom border sits too far below the text. this was fixed by adding the a 'nav' selector including the 'translate' property containing the value of '0, 1em'
+* There was an issue with bootstrap and two of the features within the the homepage where they would take up two rows instead of one, this was fixed by altering the classes used by bootstrap and adding style to it.
 
 ### Unfixed bugs
-* Two of the features on the index.html page are taking up two columns instead of one.
 * In the comment input box on the contact.html page, the text placeholder and text itself isnt covering the entire box.
 
 ## Credits
