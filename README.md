@@ -2,7 +2,7 @@
 
 GymFit is a brand new locally owned gym opening in Brixham! Tailored for early birds or night owls, GymFit is open 24 hours a day, 5 days a week! The aim for this site is to introduce our new gym and their available classes, opening times, photos and contact information.
 
-A deployed link is available [here.](#)
+A deployed link is available [here.](https://joshfreeman00.github.io/GymFit/)
 
 ## Showcase of the site
 A showcase of the site will be here. 
@@ -33,6 +33,10 @@ As a Frequent visitor;
 
 ## Structure
 ### Logo and Navigation bar
+* The name of the gym, GymFit, is located on the top left of the webpage, along with the ability of returning to the home page just by clicking on the logo.
+* The navigation links are located on the top right of the webpage, which link to the other available pages. Here users can easily use thee links to navigate from each webpage, along with being shown which page you are on from the underline of the text.
+* For smaller devices, the navigation bar changes to a burger menu for a more responsive design for mobile or tablet users, this allows for a compact and user friendly design. 
+
 ### Header
 ### Home Page
 ### Why choose GymFit?
@@ -46,7 +50,7 @@ As a Frequent visitor;
 ### Images
 ### Colour scheme
 * The use of blue within this theme provides a non-threatening feel for the user and provides tranquility too.
-<!-- !Preview(Color theme goes here)  -->
+![Color theme](https://github.com/joshfreeman00/gymfit/blob/main/docs/color-theme.jpeg)
 ### Fonts
 * Fredoka font is the main font used throughout the website and features rounded edges on the text. A fullback font of Sans-Serif is used just in case for whatever the reason is that the font isnt loaded correctly.
 * Rubik is used for the logo of the web page that is more rounded and thicker than Fredoka, this makes it stand out amongst the rest of the text. This provides User Clarity allowing the user to easily spot the websites title. A fullback font of Sans-Serif is used just in case for whatever the reason is that the font isnt loaded correctly.
@@ -56,21 +60,17 @@ The use of rounded is used for a casual theme, making the user feel at home.
 The wireframes for the webpage can be viewed here.
 
 * index.html
-![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/index.png)
+![Homepage](https://github.com/joshfreeman00/gymfit/blob/main/docs/wireframes/index.png)
 * index.html - Mobile
-![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/index_mobile.png)
+![Homepage_mobile](https://github.com/joshfreeman00/gymfit/blob/main/docs/wireframes/index_mobile.png)
 * classes.html
-![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/classes.png)
+![Classes](https://github.com/joshfreeman00/gymfit/blob/main/docs/wireframes/classes.png)
 * classes.html - Mobile
-![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/classes_mobile.png)
-* gallery.html
-![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/gallery.png)
-* gallery.html - Mobile
-![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/gallery_mobile.png)
-* enquiries.html
-![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/enquiries.png)
-* enquiries.html - Mobile
-![Preview](https://github.com/joshfreeman00/GymFit/tree/main/docs/wireframes/enquiries_mobile.png)
+![Classes_mobile](https://github.com/joshfreeman00/gymfit/blob/main/docs/wireframes/classes_mobile.png)
+* contact.html
+![Contact](https://github.com/joshfreeman00/gymfit/blob/main/docs/wireframes/enquiries.png)
+* contact.html - Mobile
+![contact_mobile](https://github.com/joshfreeman00/gymfit/blob/main/docs/wireframes/enquiries_mobile.png)
 ## Languages
 * HTML5
 * CSS
