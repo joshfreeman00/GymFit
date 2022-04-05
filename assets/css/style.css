@@ -55,6 +55,7 @@ nav {
 }
 
 #hero-outer {
+    position: relative;
     height: 400px;
     width: 100%;
     overflow: hidden;
@@ -84,7 +85,7 @@ nav {
     
     background: rgba(78, 116, 186, .5);
     
-    bottom: 35vh;
+    bottom: 5vh;
     left: 5vw;
     
     position: absolute;
