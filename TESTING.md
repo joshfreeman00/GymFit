@@ -51,8 +51,8 @@ chrome safari
 * A display property with the value 'inline-block' (ln 27 col 5) was conflicting with the float property, this was fixed by deleting the display property and the corresponding value.
 * The hero image on the home page has been cut off at the top. This was fixed by replacing the 'center' value with 'top'. The image was later was changed for better user clarity.
 * There was an issue with bootstrap and two of the features within the the homepage where they would take up two rows instead of one, this was fixed by altering the classes used by bootstrap and adding style to it.
+* In the comment input box on the contact.html page, the text placeholder and text itself wasn't covering the entire box, this was fixed by replacing the input tag with a textarea tag.
 
 ## Unfixed bugs
 
 * There are no unfixed bugs that I am aware of.
-* In the comment input box on the contact.html page, the text placeholder and text itself isnt covering the entire box.
