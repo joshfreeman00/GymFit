@@ -8,29 +8,29 @@ To return back to the readme click [here](README.md)
 
 - [index.html](https://validator.w3.org/nu/?doc=https://joshfreeman00.github.io/GymFit/index.html)
 
-![index.html](-------insert relative path to screenshot for this page results -----)
+![index.html](docs/testing/index-validation.png)
 
 - [classes.html](https://validator.w3.org/nu/?doc=https://joshfreeman00.github.io/GymFit/classes.html)
 
-![classes.html](-------insert relative path to screenshot for this page results -----)
+![classes.html](docs/testing/classes-validation.png)
 
 - [contact.html](https://validator.w3.org/nu/?doc=https://joshfreeman00.github.io/GymFit/contact.html)
 
-![contact.html](-------insert relative path to screenshot for this page results -----)
+![contact.html](docs/testing/contact-validation.png)
 
 ### CSS Validation
 
 - [style.css](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjoshfreeman00.github.io%2FGymFit)
 
-![style.css](-------insert relative path to screenshot for this page results -----)
+![style.css](docs/testing/css-validation.png)
 
 ## Responsiveness
 
-different devices, mobile, tablet and desktop
+<!-- different devices, mobile, tablet and desktop -->
 
 ## Browser Compatibility
 
-chrome safari
+<!-- chrome safari -->
 
 ## User story testing
 
