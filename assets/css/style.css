@@ -76,20 +76,15 @@ nav {
     font-size: 80%;
     font-family: rubik, arial;
     color: #f3f3f3;
-    
     width: 350px;
     height: 150px;
-    
     padding-top: 20px;
     padding-left: 10px;
-    
     background: rgba(78, 116, 186, .5);
-    
     bottom: 5vh;
     left: 5vw;
-    
     position: absolute;
-    
+    text-shadow: 2px 2px 2px rgb(0 0 0 / 50%);
   }
 
   #namefont {
