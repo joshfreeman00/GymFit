@@ -44,15 +44,17 @@ As a Frequent visitor;
 * The navigation links are located on the top right of the webpage, which link to the other available pages. Here users can easily use thee links to navigate from each webpage, along with being shown which page you are on from the underline of the text.
 * For smaller devices, the navigation bar changes to a burger menu for a more responsive design for mobile or tablet users, this allows for a compact and user friendly design. 
 
-![Nav_bar](placeholder)
+![Nav_bar](docs/testing/navbar.png)
 
-![Nav_bar_burger](placeholder)
+![Nav_bar_burger](docs/testing/nav-burger.png)
 
 ### Header
 
 * The Header contains the hero image of gym equipment.
 * On the left is cover text containing the slogan along with the opening times.
 * The image provides context of what the webiste is about along with the covet text which provides the vital opening times.
+
+![header](docs/testing/header.png)
 
 ### Home Page
 
@@ -63,7 +65,7 @@ As a Frequent visitor;
 * Within this section is the heading that provides infomation on why the user should join GymFit as well as 3 sections on the benifits on joining.
 * These sections have a white background, contrasting the blue theme of the webpage along with black text in which all provides the user accessabilty in reading the text.
 
-![whychoose](placeholder)
+![whychoose](docs/testing/homepage.png)
 
 ### Footer
 
@@ -71,7 +73,7 @@ As a Frequent visitor;
 * Icons are used for the links instead of text to provide a minimalistic look while still providing infomation on which social media platform is which from the use of their logo.
 * The text explains what the icon links provide.
 
-![footer](placeholder)
+![footer](docs/testing/footer.png)
 
 ### Classes Page
 
@@ -80,7 +82,7 @@ As a Frequent visitor;
 * the page also includes a background image of a person helping someone else, this is provides a background image that is relivant to the page.
 * the design of the heading and times allow the user to easily read the text because of the contrast of the text color and the background of the text. The background of the text is also semi-transparent to allow the user to still see the background image while still being able to read the text.
 
-![classes](placeholder)
+![classes](docs/testing/classes.png)
 
 ### Contact Page
 
@@ -88,7 +90,7 @@ As a Frequent visitor;
 * The contact page also contains a form that allows the user to sumbit their infomation.
 * The form collects the users first name, last name, email, contact number and any comments which are all required to successfully sumbit the form.
 
-![contact](placeholder)
+![contact](docs/testing/contact.png)
 
 ## Design
 
@@ -111,7 +113,12 @@ The images used throughout the website are relivant to each page they are on.
 <!-- add link to each font used -->
 
 * Fredoka font is the main font used throughout the website and features rounded edges on the text. A fullback font of Sans-Serif is used just in case for whatever the reason is that the font isnt loaded correctly.
+
+The link to this font is found [here.](https://fonts.google.com/specimen/Fredoka?query=fredoka)
+
 * Rubik is used for the logo of the web page that is more rounded and thicker than Fredoka, this makes it stand out amongst the rest of the text. This provides User Clarity allowing the user to easily spot the websites title. A fullback font of Sans-Serif is used just in case for whatever the reason is that the font isnt loaded correctly.
+
+The link to this font is found [here.](https://fonts.google.com/specimen/Rubik?query=rubik)
 
 The use of rounded is used for a casual theme, making the user feel at home.
 
@@ -145,19 +152,19 @@ The wireframes for the webpage can be viewed here.
 
 ## Languages
 
-* HTML5
-* CSS
+* [HTML5](https://en.wikipedia.org/wiki/HTML5)
+* [CSS](https://en.wikipedia.org/wiki/CSS)
 
 ## Tools
 
 * Gitpod - used as a cloud based IDE.
 * Github - used to secure code online.
 * Git - version control.
-* Balsamiq
-* Google Fonts
-* Font Awesome
-* Adobe Color
-* Google Chrome Dev tools
+* Balsamiq - used to create wireframes.
+* Google Fonts - for the two fonts that were used.
+* Font Awesome - for the various icons used.
+* Adobe Color - for the color palette.
+* Google Chrome Dev tools - for proof reading code.
 
 ## Testing
 
@@ -184,13 +191,17 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 ## Credits
 
-* Font awesome - The icons used.
-* Bootstrap - The grid system code.
-* Google fonts - For the Fredoka and Rubik fonts that were used.
-* w3schools - For the box shadow code and consistant help throughout.
+* Font awesome - The icons used. [Link](https://fontawesome.com/icons)
+* Bootstrap v4.3 - The grid system code. [Link](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
+* Google fonts - For the Fredoka and Rubik fonts that were used. [Link](https://fonts.google.com/)
+* w3schools - For the box shadow code and consistant help throughout. [Link](https://www.w3schools.com/default.asp)
 * My mentor - For helpful tips and debugging.
 * Love Running - The code to make the hero-image and animation effect on the homepage was used from Code Institute.
 * Unsplash - All the images used used within the web page were sourced from here.
+  - The home pages hero image is found [here.](https://unsplash.com/photos/fqMu99l8sqo)
+  - The classes background image is found [here.](https://unsplash.com/photos/R0y_bEUjiOM)
+  - The contact pages background image can be found [here.](https://unsplash.com/photos/FMQBLyhD2HU)
+
 
 ## Acknowledgements
 
