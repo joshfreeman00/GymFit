@@ -26,11 +26,27 @@ To return back to the readme click [here](README.md)
 
 ## Responsiveness
 
-<!-- different devices, mobile, tablet and desktop -->
+* The following images will showcase how the website is shown on different devices and shows the responsiveness of the website.
+
+- Mobile devices
+    ![home-mobile](docs/testing/mobile-chrome.png)
+
+- Tablet devices
+    ![home-tablet](docs/testing/tablet-chrome.png)
+
+- Desktop devices
+    ![desktop](docs/testing/desktop-chrome.png)
+
 
 ## Browser Compatibility
 
-<!-- chrome safari -->
+* The following images shows the website being tested in both Chrome and Safari browsers.
+
+- Chrome
+    ![chrome](docs/testing/desktop-chrome.png)
+
+- Safari
+    ![safari](docs/testing/desktop-safari.png)
 
 ## User story testing
 
