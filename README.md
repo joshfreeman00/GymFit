@@ -71,9 +71,14 @@ As a Frequent visitor;
 
 * The footer provides links to 3 of their social media accounts along with some text. They purposely open a new tab to allow the user to easily navigate to different social platforms while still being connected to the website for easy access back to the webpage.
 * Icons are used for the links instead of text to provide a minimalistic look while still providing information on which social media platform is which from the use of their logo.
+* When hovering over an icon, text pops up with the name of the social media platform, this helps with user accessibility.
 * The text explains what the icon links provide.
 
 ![footer](docs/testing/footer.png)
+
+* The image below shows that when the user hovers over the Facebook icon, text pops up with the said name of the social media platform 'Facebook'.
+
+![footerhover](docs/testing/footerhover.png)
 
 ### Classes Page
 
