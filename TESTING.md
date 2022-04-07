@@ -1,6 +1,6 @@
 # Testing
 
-To return back to the readme click [here](README.md)
+To return to the readme click [here](README.md)
 
 ## Code validation
 
@@ -42,7 +42,7 @@ To return back to the readme click [here](README.md)
 
 ## Browser Compatibility
 
-* The following images shows the website being tested in both Chrome and Safari browsers.
+* The following images show the website being tested in both Chrome and Safari browsers.
 
 - Chrome
 
@@ -54,13 +54,13 @@ To return back to the readme click [here](README.md)
 
 ## User story testing
 
-* I want to clearly understand the context of the website and to learn more about the Gym.
+* I want to clearly understand the context of the website and learn more about the Gym.
 
 ![header](docs/testing/header.png)
 
 ![homepage](docs/testing/homepage.png)
 
-* I want to use the navigation bar to be taken to the appropiate page and, for better user experience, be able to go back to the home page within a click of a button.
+* I want to use the navigation bar to be taken to the appropriate page and, for a better user experience, be able to go back to the home page with a click of a button.
 
 ![navbar](docs/testing/navbar.png)
 
@@ -72,7 +72,7 @@ To return back to the readme click [here](README.md)
 
 ![form](docs/testing/contact.png)
 
-* I would want to look at what classes are available and times they're on.
+* I would want to look at what classes are available and the times they're on.
 
 ![classes](docs/testing/classes.png)
 
@@ -80,7 +80,7 @@ To return back to the readme click [here](README.md)
 
 ![form](docs/testing/contact.png)
 
-* I want to easily find socail media links connected to the Gym.
+* I want to easily find social media links connected to the Gym.
 
 ![footer](docs/testing/footer.png)
 
@@ -96,8 +96,8 @@ To return back to the readme click [here](README.md)
 
 * A display property with the value 'inline-block' (ln 27 col 5) was conflicting with the float property, this was fixed by deleting the display property and the corresponding value.
 * The hero image on the home page has been cut off at the top. This was fixed by replacing the 'center' value with 'top'. The image was later was changed for better user clarity.
-* There was an issue with bootstrap and two of the features within the the homepage where they would take up two rows instead of one, this was fixed by altering the classes used by bootstrap and adding style to it.
-* In the comment input box on the contact.html page, the text placeholder and text itself wasn't covering the entire box, this was fixed by replacing the input tag with a textarea tag.
+* There was an issue with bootstrap and two of the features within the homepage where they would take up two rows instead of one, this was fixed by altering the classes used by bootstrap and adding style to it.
+* In the comment input box on the contact.html page, the text placeholder and text itself was not covering the entire box, this was fixed by replacing the 'input' tag with a 'textarea' tag.
 
 ## Unfixed bugs
 
