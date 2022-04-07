@@ -82,7 +82,7 @@ As a Frequent visitor;
 * the page also includes a background image of a person helping someone else, this is provides a background image that is relivant to the page.
 * the design of the heading and times allow the user to easily read the text because of the contrast of the text color and the background of the text. The background of the text is also semi-transparent to allow the user to still see the background image while still being able to read the text.
 
-![classes](placeholder)
+![classes](docs/testing/classes.png)
 
 ### Contact Page
 
@@ -109,8 +109,6 @@ The images used throughout the website are relivant to each page they are on.
 ![Colour theme](docs/color-theme.jpeg)
 
 ### Fonts 
-
-<!-- add link to each font used -->
 
 * Fredoka font is the main font used throughout the website and features rounded edges on the text. A fullback font of Sans-Serif is used just in case for whatever the reason is that the font isnt loaded correctly.
 
