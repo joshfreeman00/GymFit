@@ -18,7 +18,7 @@ As a first time visitor;
 
 * I want to clearly understand the context of the website and to learn more about the Gym.
 * I want to use the navigation bar to be taken to the appropiate page and, for better user experience, be able to go back to the home page within a click of a button.
-* I want to be able to see the pricing and the location.
+* I want to be able to clearly see the pricing.
 * I want to simply be able to contact the gym and enquire.
 
 ### Returning visitor:
@@ -82,7 +82,7 @@ As a Frequent visitor;
 * the page also includes a background image of a person helping someone else, this is provides a background image that is relivant to the page.
 * the design of the heading and times allow the user to easily read the text because of the contrast of the text color and the background of the text. The background of the text is also semi-transparent to allow the user to still see the background image while still being able to read the text.
 
-![classes](docs/testing/classes.png)
+![classes](placeholder)
 
 ### Contact Page
 
