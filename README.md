@@ -6,7 +6,7 @@ A deployed link is available [here.](https://joshfreeman00.github.io/GymFit/)
 
 ## Showcase of the site
 
-A showcase of the site will be here. 
+![showcase](docs/testing/showcase.png)
 
 ## UX
 
