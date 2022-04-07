@@ -29,53 +29,67 @@ To return back to the readme click [here](README.md)
 * The following images will showcase how the website is shown on different devices and shows the responsiveness of the website.
 
 - Mobile devices
+
     ![home-mobile](docs/testing/mobile-chrome.png)
 
 - Tablet devices
+
     ![home-tablet](docs/testing/tablet-chrome.png)
 
 - Desktop devices
-    ![desktop](docs/testing/desktop-chrome.png)
 
+    ![desktop](docs/testing/desktop-chrome.png)
 
 ## Browser Compatibility
 
 * The following images shows the website being tested in both Chrome and Safari browsers.
 
 - Chrome
+
     ![chrome](docs/testing/desktop-chrome.png)
 
 - Safari
+
     ![safari](docs/testing/desktop-safari.png)
 
 ## User story testing
 
 * I want to clearly understand the context of the website and to learn more about the Gym.
+
 ![header](docs/testing/header.png)
+
 ![homepage](docs/testing/homepage.png)
 
 * I want to use the navigation bar to be taken to the appropiate page and, for better user experience, be able to go back to the home page within a click of a button.
+
 ![navbar](docs/testing/navbar.png)
 
 * I want to be able to see the pricing.
+
 ![classes](docs/testing/prices.png)
 
 * I want to simply be able to contact the gym and enquire.
+
 ![form](docs/testing/contact.png)
 
 * I would want to look at what classes are available and times they're on.
+
 ![classes](docs/testing/classes.png)
 
 * I want to be able to contact the gym with ease and ask any questions using the contact form or contact info provided.
+
 ![form](docs/testing/contact.png)
 
 * I want to easily find socail media links connected to the Gym.
+
 ![footer](docs/testing/footer.png)
 
 * I want to be able to check if there are any additions/changes to the classes, events or updates.
+
 ![updates](docs/testing/prices.png)
 
 * I would like to access the site easily on a mobile phone or tablet.
+
 ![home-mobile](docs/testing/home-mobile.png)
 
 ## Bugs
