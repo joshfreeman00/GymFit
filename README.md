@@ -155,15 +155,16 @@ The wireframes for the webpage can be viewed here.
 
 ## Tools
 
-* [Gitpod](https://www.gitpod.io/) - used as a cloud based IDE.
-* [Github](https://github.com/) - used to secure code online.
-* [Git](https://git-scm.com/) - version control.
-* [Balsamiq](https://balsamiq.com/) - used to create wireframes.
-* [Google Fonts](https://fonts.google.com/) - for the two fonts that were used.
-* [Font Awesome](https://fontawesome.com/icons) - for the various icons used.
-* [Adobe Color](https://color.adobe.com/explore) - for the color palette.
+* [Gitpod](https://www.gitpod.io/) - Used as a cloud based IDE.
+* [Github](https://github.com/) - Used to secure code online.
+* [Git](https://git-scm.com/) - Version control.
+* [Balsamiq](https://balsamiq.com/) - Used to create wireframes.
+* [Google Fonts](https://fonts.google.com/) - For the two fonts that were used.
+* [Font Awesome](https://fontawesome.com/icons) - For the various icons used.
+* [Adobe Color](https://color.adobe.com/explore) - For the color palette.
 * Google Chrome Dev tools - for proof reading code.
-* [Am I Responsive?](http://ami.responsivedesign.is/) - to see the responsiveness of the website on multiple devices.
+* [Am I Responsive?](http://ami.responsivedesign.is/) - To see the responsiveness of the website on multiple devices.
+* [WebAIM](https://webaim.org/resources/contrastchecker/#:~:text=WCAG%202.0%20level%20AA%20requires,such%20as%20form%20input%20borders) - Used to check the contrast between foreground and background colours.
 
 ## Testing
 
