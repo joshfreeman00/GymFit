@@ -155,14 +155,15 @@ The wireframes for the webpage can be viewed here.
 
 ## Tools
 
-* Gitpod - used as a cloud based IDE.
-* Github - used to secure code online.
-* Git - version control.
-* Balsamiq - used to create wireframes.
-* Google Fonts - for the two fonts that were used.
-* Font Awesome - for the various icons used.
-* Adobe Color - for the color palette.
+* [Gitpod](https://www.gitpod.io/) - used as a cloud based IDE.
+* [Github](https://github.com/) - used to secure code online.
+* [Git](https://git-scm.com/) - version control.
+* [Balsamiq](https://balsamiq.com/) - used to create wireframes.
+* [Google Fonts](https://fonts.google.com/) - for the two fonts that were used.
+* [Font Awesome](https://fontawesome.com/icons) - for the various icons used.
+* [Adobe Color](https://color.adobe.com/explore) - for the color palette.
 * Google Chrome Dev tools - for proof reading code.
+* [Am I Responsive?](http://ami.responsivedesign.is/) - to see the responsiveness of the website on multiple devices.
 
 ## Testing
 
@@ -189,13 +190,14 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 
 ## Credits
 
-* Font awesome - The icons used. [Link](https://fontawesome.com/icons)
-* Bootstrap v4.3 - The grid system code. [Link](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
-* Google fonts - For the Fredoka and Rubik fonts that were used. [Link](https://fonts.google.com/)
-* w3schools - For the box shadow code and consistant help throughout. [Link](https://www.w3schools.com/default.asp)
+* [Font Awesome](https://fontawesome.com/icons) - The icons used.
+* [Bootstrap v4.3](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - The grid system code.
+* [Google Fonts](https://fonts.google.com/) - For the Fredoka and Rubik fonts that were used.
+* [w3schools](https://www.w3schools.com/default.asp) - For the box shadow code and consistant help throughout.
+* [Stack Overflow](https://stackoverflow.com/) - For help debugging and fixes throughout.
 * My mentor - For helpful tips and debugging.
 * Love Running - The code to make the hero-image and animation effect on the homepage was used from Code Institute.
-* Unsplash - All the images used used within the web page were sourced from here.
+* [Unsplash](https://unsplash.com/) - All the images used used within the web page were sourced from here.
   - The home pages hero image is found [here.](https://unsplash.com/photos/fqMu99l8sqo)
   - The classes background image is found [here.](https://unsplash.com/photos/R0y_bEUjiOM)
   - The contact pages background image can be found [here.](https://unsplash.com/photos/FMQBLyhD2HU)
