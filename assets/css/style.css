@@ -22,6 +22,7 @@ body {
 }
 
 /* navigation menu */
+
 header {
     background-color: transparent;
 }
@@ -104,7 +105,7 @@ nav {
       margin: auto;
       text-align: center;
       padding: 20px 0;
-      /* code used from w3school */
+      /* box-shadow code used from w3school */
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
@@ -121,6 +122,7 @@ nav {
 
   .reasons-why {
       background-color: #f5f5f5;
+      /* box-shadow code used from w3school */
       box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
       border-radius: 5px;
       font-size: 90%;
@@ -131,6 +133,8 @@ nav {
       background-color: peachpuff;
       border-radius: 10%;
   }
+
+  /* button */
 
   .gym-btn {
     border: 1px solid #000;
@@ -151,6 +155,7 @@ nav {
   footer {
       height: 100px;
       background-color: #f5f5f5;
+      /* box-shadow code used from w3school */
       box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
@@ -240,6 +245,7 @@ nav {
     margin: auto 0;
     text-align: center;
     padding: 15px 0;
+    /* box-shadow code used from w3school */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
@@ -252,6 +258,7 @@ nav {
     max-width: 500px;
     padding: 40px;
     border-radius: 5px;
+    /* box-shadow code used from w3school */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   }
 
@@ -283,25 +290,6 @@ nav {
           clear: both;
           height: 150px;
           font-size: 70%;
-      }
-  }
-
-  @media screen and (max-width: 767px) {
-
-      .reasons-why {
-          margin-bottom: 5px;
-      }
-
-      .marginl-2 {
-          margin-left: 0rem;
-      }
-
-      .marginr-2 {
-          margin-right: 0rem;
-      }
-
-      .firstrow {
-          padding-bottom: 0rem;
       }
   }
 
