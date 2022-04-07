@@ -218,16 +218,18 @@ nav {
     padding: 7px;
   }
 
-  /* contact header */
+/* contact section */
 
   .contact-section {
     background: url(../images/contact-background.jpg) no-repeat center center;
     background-size: cover;
-    height: 850px;
+    height: 920px;
     width: 100%;
     overflow: hidden;
     margin-top: 20px;
   }
+
+  /* contact header */
 
   #contact-header {
     clear: both;
@@ -264,7 +266,7 @@ nav {
     margin-left: 2px;
     padding-left: 2px;
     height: 150px;
-    width: 300px;
+    width: 250px;
   }
 
   .contact-btn {
