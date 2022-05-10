@@ -91,12 +91,12 @@ nav {
     left: 5vw;
     position: absolute;
     text-shadow: 2px 2px 2px rgb(0 0 0 / 50%);
-  }
+}
 
   #namefont {
       font-family: fredoka, arial;
       color: #f5f5f5;
-  }
+}
 
   /* reasons why header */
 
@@ -107,18 +107,18 @@ nav {
       padding: 20px 0;
       /* box-shadow code used from w3school */
       box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  }
+}
 
   #sml-logo {
       font-family: fredoka, arial;
       color: #2E446E;
-  }
+}
 
   /* reasons why section */
 
   #reasons-section {
       padding: 50px 0;
-  }
+}
 
   .reasons-why {
       background-color: #f5f5f5;
@@ -127,12 +127,12 @@ nav {
       border-radius: 5px;
       font-size: 90%;
       padding: 15px 20px;
-  }
+}
 
   mark {
       background-color: peachpuff;
       border-radius: 10%;
-  }
+}
 
   /* button */
 
@@ -142,13 +142,13 @@ nav {
     color: #fff;
     background-color: #2E446E;
     padding: 5px;
-  }
+}
 
   .gym-btn:hover{
     background-color: #ADC4F0;
     color: #000;
     text-decoration: none;
-  }
+}
 
   /* footer */
 
@@ -157,28 +157,28 @@ nav {
       background-color: #f5f5f5;
       /* box-shadow code used from w3school */
       box-shadow: 0 4px 8px 4px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  }
+}
 
   footer h2 {
       font-size: 90%;
       text-align: center;
       padding-top: 10px;
-  }
+}
 
   .socials {
       padding-top: 10px;
       text-align: center;
-  }
+}
   
   .socials li {
       display: inline;
-  }
+}
 
   .socials i {
     margin: 1%;
     padding: 0 5%;
     color: #2E446E;
-  }
+}
 
   /* classes background */
 
@@ -189,7 +189,7 @@ nav {
     width: 100%;
     overflow: hidden;
     margin-top: 20px;
-  }
+}
 
   /* classes header */
 
@@ -200,14 +200,14 @@ nav {
     border-radius: 5px;
     margin: 20px 0;
     padding: 20px;
-  }
+}
 
   /* class times */
 
   #times {
       margin-top: 120px;
       margin-bottom: 40px;
-  }
+}
 
   #times div {
       color: #f5f5f5;
@@ -218,23 +218,23 @@ nav {
       float: left;
       margin: 2px;
       text-align: center;
-  }
+}
   
   #times h2, #times h3 {
     font-size: 130%;
     padding: 7px;
-  }
+}
   
   /* contact section */
 
   .contact-section {
-    background: url(../images/contact-background.jpg) no-repeat center center;
+    background: url(../images/contact_background.jpg) no-repeat center center;
     background-size: cover;
     height: 920px;
     width: 100%;
     overflow: hidden;
     margin-top: 20px;
-  }
+}
 
   /* contact header */
 
@@ -247,7 +247,7 @@ nav {
     padding: 15px 0;
     /* box-shadow code used from w3school */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  }
+}
 
   /* contact form */
 
@@ -260,14 +260,14 @@ nav {
     border-radius: 5px;
     /* box-shadow code used from w3school */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  }
+}
 
   .form-input {
       border: 1px solid #000;
       border-radius: 5px;
       margin-left: 2px;
       padding-left: 2px;
-  }
+}
 
   .comment-input {
     border: 1px solid #000;
@@ -276,7 +276,7 @@ nav {
     padding-left: 2px;
     height: 150px;
     width: 250px;
-  }
+}
 
   /* media querys */
   
@@ -291,7 +291,7 @@ nav {
           height: 150px;
           font-size: 70%;
       }
-  }
+}
 
   @media screen and (max-width: 700px) {
       .contact-form {
@@ -299,4 +299,4 @@ nav {
           margin: 100px 0;
           max-width: none;
       }
-  }
+}
