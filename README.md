@@ -197,9 +197,9 @@ Alternatively, if using Gitpod, you can click below to create your own workspace
 ## Credits
 
 * [Font Awesome](https://fontawesome.com/icons) - The icons used.
-* [Bootstrap v4.3](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - The grid system code.
+* [Bootstrap v4.3](https://getbootstrap.com/docs/4.3/getting-started/introduction/) - The grid system and burger menu code.
 * [Google Fonts](https://fonts.google.com/) - For the Fredoka and Rubik fonts that were used.
-* [w3schools](https://www.w3schools.com/default.asp) - For the box-shadow code and consistent help throughout.
+* [w3schools](https://www.w3schools.com/default.asp) - For the box-shadow code found [here](https://www.w3schools.com/css/css3_shadows_box.asp) and consistent help throughout.
 * [Stack Overflow](https://stackoverflow.com/) - For help debugging and fixes throughout.
 * My mentor - For helpful tips and debugging.
 * Love Running - The code to make the hero-image and animation effect on the homepage was used from Code Institute.
